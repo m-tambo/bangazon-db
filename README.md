@@ -48,4 +48,4 @@ The order id
 The product id
 Plan to leave enough time to test drive your db with as many queries as you can. Soon we will dive into writing tests that confirm that we can read and write to our databases properly. For now, just write out a series of queries like the ones you worked through in the previous exercises and use the DB Browser app to put your tables through their paces.
 
-[bangazon-erd.pdf](https://github.com/m-tambo/bangazon-db/files/834728/bangazon-erd.pdf)
+![bangazon-erd](https://cloud.githubusercontent.com/assets/23462252/23807045/c3df6e76-0589-11e7-8172-3c4e98e10c49.png)
